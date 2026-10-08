@@ -1,0 +1,6 @@
+{
+  "name": "Autoservis Auto Life Plus",
+  "description": "Oficiálny web a online rezervačný systém pre Autoservis Auto Life Plus, Myslenická 3, Pezinok - Grinava. Rýchly servis, pneuservis a 3D geometria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
